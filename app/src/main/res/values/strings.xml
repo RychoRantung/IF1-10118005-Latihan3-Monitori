@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IF1-10118005-Latihan3-Monitori</string>
+    <string name="monitory">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="mulai">Mulai</string>
+    <string name="kode">Kode Keluarga</string>
+    <string name="ket_kode">Ketikkan kode keluarga yang Ayah Bunda miliki di sini</string>
+    <string name="masuk">Masuk</string>
+    <string name="belumpunyakode">Belum punya kode keluarga?</string>
+    <string name="belikode">Beli kode keluarga Di sini</string>
+    <string name="dengan_menekan">Dengan menekan tombol masuk berarti anda menyetujui <b>Ketentuan Pengguna</b>
+        dan <b>Kebijakan Data</b> kami</string>
+    <string name="nama">Nama Panggilan Kamu</string>
+    <string name="umur">Umur Kamu</string>
+    <string name="contoh_nama">Contoh: Budi</string>
+    <string name="contoh_umur">Contoh: 12</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="beres">Beres! Sekarang </string>
+    <string name="udah">udah bisa ngecek penggunaan HP mu tiap hari buat bantu kamu ngatur waktu</string>
+</resources>
